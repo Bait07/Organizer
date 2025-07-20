@@ -1,4 +1,4 @@
-gb# Organizador de Archivos
+## Organizador de Archivos
 
 Aplicación simple para organizar automáticamente archivos en carpetas según su tipo y fecha de modificación.
 
